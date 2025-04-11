@@ -1,7 +1,7 @@
 
 # Tailwindcss landing page
 
-Landing page done using HTML5/Tailwindcss 
+Landing page done using HTML5/Tailwindcss with the screen size of 1585 x 779  Zoom 75%
 
 
 ## Frontend Deplyment link
